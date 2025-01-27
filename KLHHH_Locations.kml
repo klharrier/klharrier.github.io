@@ -1,0 +1,3563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="6">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="7">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2567|Sue Ng|2024-10-02,
+RUN: 2550|Miki Loh|2024-06-05,
+RUN: 2534|Mose Mose|2024-02-14,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="11">
+            <IconStyle id="13">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="14">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="12">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2538|Trui Knijnenburg|2024-03-13,
+RUN: 2517|Mynne Tan|2023-10-18,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="18">
+            <IconStyle id="20">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="19">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2569|Christi Holleman|2024-10-16,
+RUN: 2547|Reuben Lamack|2024-05-15,
+RUN: 2519|Kathy Ling|2023-11-01,
+RUN: 2512|Leslie Antoine|2023-09-13,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="25">
+            <IconStyle id="27">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="28">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="26">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2500|Mary Morss|2023-06-21,
+RUN: 2493|Netti Kutsche-Roch|2023-05-03,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="32">
+            <IconStyle id="34">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="35">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="33">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2576|Josephine Koay|2024-12-04,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="41">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="42">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2574|Thomas Roch|2024-11-20,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="46">
+            <IconStyle id="48">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="49">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="47">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2573|Delphy Dawson|2024-11-13,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="53">
+            <IconStyle id="55">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="54">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2565|Neptunus |2024-09-18,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="60">
+            <IconStyle id="62">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="63">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="61">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2564|Netti Kutsche-Roch|2024-09-11,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="67">
+            <IconStyle id="69">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="70">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="68">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2562|Kathy Ling|2024-08-28,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="76">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="77">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2561|Jess Ong|2024-08-21,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="81">
+            <IconStyle id="83">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="84">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="82">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2551|John Koh|2024-06-12,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="88">
+            <IconStyle id="90">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="89">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2549|Kwai Hoong|2024-05-29,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="95">
+            <IconStyle id="97">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="98">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="96">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2545|Saw Hua Pui|2024-05-01,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="102">
+            <IconStyle id="104">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="105">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="103">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2522|Soh Kam Eng|2023-11-22,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="111">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="112">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="110">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2515|Guru Johal|2023-10-04,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="116">
+            <IconStyle id="118">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="119">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="117">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2511|Josephine Koay|2023-09-06,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="123">
+            <IconStyle id="125">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="124">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2510|Connie Feer|2023-08-30,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="130">
+            <IconStyle id="132">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="133">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="131">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2505|Selvarani Viswalingam|2023-07-26,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="137">
+            <IconStyle id="139">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="140">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="138">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2504|Rita Ngadol Scourse|2023-07-19,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="146">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="147">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="145">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2501|Shann|2023-06-28,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="151">
+            <IconStyle id="153">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="154">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="152">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2489|Reuben Lamack|2023-04-05,
+RUN: 2450|Reuben Lamack|2022-07-06,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="158">
+            <IconStyle id="160">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="161">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="159">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2548|Nancy Stott|2024-05-22,
+RUN: 2537|Rob Stott|2024-03-06,
+RUN: 2476|Chris Leighton|2023-01-04,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="165">
+            <IconStyle id="167">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="168">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="166">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2541|Ann Choo|2024-04-03,
+RUN: 2531|Thomas Roch|2024-01-24,
+RUN: 2529|Sandra Soliano|2024-01-10,
+RUN: 2518|John Castleman|2023-10-25,
+RUN: 2508|Sue Ng|2023-08-16,
+RUN: 2473|Frank Wijnands|2022-12-14,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="172">
+            <IconStyle id="174">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="175">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="173">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2542|Sim Campbell|2024-04-10,
+RUN: 2463|Neil Campbell|2022-10-05,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="179">
+            <IconStyle id="181">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="182">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="180">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2488|Nan Kanagasabai|2023-03-29,
+RUN: 2462|John Koh|2022-09-28,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="186">
+            <IconStyle id="188">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="189">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="187">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2506|Delphy Dawson|2023-08-02,
+RUN: 2461|Mary Morss|2022-09-21,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="193">
+            <IconStyle id="195">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="196">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="194">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2454|Kathy Ling|2022-08-03,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="200">
+            <IconStyle id="202">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="203">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="201">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2452|Liz Tan|2022-07-20,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="207">
+            <IconStyle id="209">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="210">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="208">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2513|Roger Gregson|2023-09-20,
+RUN: 2448|Roger Gregson|2022-06-22,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="214">
+            <IconStyle id="216">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="217">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="215">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2443|Miki Loh|2022-05-18,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="221">
+            <IconStyle id="223">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="224">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="222">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2554|Connie Feer|2024-07-03,
+RUN: 2530|Mei Mei|2024-01-17,
+RUN: 2499|Danny Lim|2023-06-14,
+RUN: 2490|Ann Choo|2023-04-12,
+RUN: 2474|Mei Mei|2022-12-21,
+RUN: 2468|Passcuran|2022-11-09,
+RUN: 2464|Trui Knijnenburg|2022-10-12,
+RUN: 2458|Veron Seah|2022-08-31,
+RUN: 2442|Mynne Tan|2022-05-11,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="228">
+            <IconStyle id="230">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="231">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="229">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2441|Kat Lee Rickard|2022-05-04,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="235">
+            <IconStyle id="237">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="238">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="236">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2440|Josephine Koay|2022-04-27,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="242">
+            <IconStyle id="244">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="245">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="243">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2439|Michael Chow|2022-04-20,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="249">
+            <IconStyle id="251">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="252">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="250">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2437|Danny Lim|2022-04-06,
+RUN: 2431|Christi Holleman|2022-02-23,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="256">
+            <IconStyle id="258">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="259">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="257">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2533|Kat Lee Rickard|2024-02-07,
+RUN: 2482|Wildboar|2023-02-15,
+RUN: 2416|Guest Hare|2021-11-10,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="263">
+            <IconStyle id="265">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="266">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="264">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2420|Ingrid Van Haasterecht|2021-12-08,
+RUN: 2415|Guest Hare|2021-11-03,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="270">
+            <IconStyle id="272">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="273">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="271">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2526|Guest Hare|2023-12-20,
+RUN: 2485|Johan Van Geyzel|2023-03-08,
+RUN: 2446|Sue Ng|2022-06-08,
+RUN: 2429|Nancy Wakeham|2022-02-09,
+RUN: 2401|Daniel Wälchli|2019-12-25,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="277">
+            <IconStyle id="279">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="280">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="278">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2396|Sin Loy Chew|2019-11-20,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="284">
+            <IconStyle id="286">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="287">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="285">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2389|Christi Holleman|2019-10-02,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="291">
+            <IconStyle id="293">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="294">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="292">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2502|Guest Hare|2023-07-05,
+RUN: 2478|Martha Maier|2023-01-18,
+RUN: 2467|Sarukunavathy Packrisamy|2022-11-02,
+RUN: 2449|Ingrid Van Haasterecht|2022-06-29,
+RUN: 2436|Lisette Davis|2022-03-30,
+RUN: 2391|Martha Maier|2019-10-16,
+RUN: 2387|Soh Yoke Chun|2019-09-18,
+RUN: 2374|Diva Nair|2019-06-19,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="298">
+            <IconStyle id="300">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="301">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="299">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2386|Nini Davis|2019-09-11,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="305">
+            <IconStyle id="307">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="308">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="306">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2385|Bas Beekkerk|2019-09-04,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="312">
+            <IconStyle id="314">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="315">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="313">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2412|Trui Knijnenburg|2020-03-11,
+RUN: 2381|Eric Teo |2019-08-07,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="319">
+            <IconStyle id="321">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="322">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="320">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2379|Steve Chan|2019-07-24,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="326">
+            <IconStyle id="328">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="329">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="327">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2486|Tommy Chin|2023-03-15,
+RUN: 2395|Danny Lim|2019-11-13,
+RUN: 2375|Delphy Dawson|2019-06-26,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="333">
+            <IconStyle id="335">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="336">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="334">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2580|Neil Campbell|2025-01-01,
+RUN: 2570|Annie Ng|2024-10-23,
+RUN: 2566|Mike Cowan|2024-09-25,
+RUN: 2409|David Hirst|2020-02-19,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="340">
+            <IconStyle id="342">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="343">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="341">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2496|David Lake|2023-05-24,
+RUN: 2392|Charlotte Donvang|2019-10-23,
+RUN: 2372|Mei Mei|2019-06-05,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="347">
+            <IconStyle id="349">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="350">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="348">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2516|Soh Yoke Chun|2023-10-11,
+RUN: 2487|Rob Stott|2023-03-22,
+RUN: 2481|Sim Campbell|2023-02-08,
+RUN: 2465|Mark Taylor|2022-10-19,
+RUN: 2447|Mike Rickard|2022-06-15,
+RUN: 2430|Nancy Stott|2022-02-16,
+RUN: 2413|Ingrid Van Haasterecht|2020-07-08,
+RUN: 2404|Saw Hua Pui|2020-01-15,
+RUN: 2384|Veron Seah|2019-08-28,
+RUN: 2368|Sim Campbell|2019-05-08,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="354">
+            <IconStyle id="356">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="357">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="355">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2363|Dominique Dall’Acqua|2019-04-03,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="361">
+            <IconStyle id="363">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="364">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="362">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2352|John Castleman|2019-01-16,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="368">
+            <IconStyle id="370">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="371">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="369">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2351|Johan Van Geyzel|2019-01-09,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="375">
+            <IconStyle id="377">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="378">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="376">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2348|Tommy Chin|2018-12-19,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="382">
+            <IconStyle id="384">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="385">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="383">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2346|Frank Wijnands|2018-12-05,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="389">
+            <IconStyle id="391">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="392">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="390">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2365|Kat Lee Rickard|2019-04-17,
+RUN: 2345|Francesco|2018-11-28,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="396">
+            <IconStyle id="398">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="399">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="397">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2378|Liew Lee Yook|2019-07-17,
+RUN: 2336|Wim Michiels|2018-09-26,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="403">
+            <IconStyle id="405">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="406">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="404">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2559|Rita Ngadol Scourse|2024-08-07,
+RUN: 2546|Wildboar|2024-05-08,
+RUN: 2317|Louise Edmondson|2018-05-16,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="410">
+            <IconStyle id="412">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="413">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="411">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2315|Charles Lee|2018-05-02,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="417">
+            <IconStyle id="419">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="420">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="418">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2307|Michael Chow|2018-03-07,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="424">
+            <IconStyle id="426">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="427">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="425">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2540|Nan Kanagasabai|2024-03-27,
+RUN: 2457|Ann Choo|2022-08-24,
+RUN: 2398|John Koh|2019-12-04,
+RUN: 2347|Martha Maier|2018-12-12,
+RUN: 2311|Martha Maier|2018-04-04,
+RUN: 2295|Ron Sparling|2017-12-13,
+RUN: 2284|Saw Hua Pui|2017-09-27,
+RUN: 2214|John Koh|2016-05-25,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="431">
+            <IconStyle id="433">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="434">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="432">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2577|Soh Yoke Chun|2024-12-11,
+RUN: 2419|Chris Leighton|2021-12-01,
+RUN: 2414|Mei Mei|2020-10-07,
+RUN: 2313|Sim Campbell|2018-04-18,
+RUN: 2283|Sen Soon Mun|2017-09-20,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="438">
+            <IconStyle id="440">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="441">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="439">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2281|Mark Taylor|2017-09-06,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="445">
+            <IconStyle id="447">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="448">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="446">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2544|Johan Van Geyzel|2024-04-24,
+RUN: 2280|Johan Van Geyzel|2017-08-30,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="452">
+            <IconStyle id="454">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="455">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="453">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2271|Adeline Goh|2017-06-28,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="459">
+            <IconStyle id="461">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="462">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="460">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2579|Mary Morss|2024-12-25,
+RUN: 2406|Stuart Wakeham|2020-01-29,
+RUN: 2316|Daniel Wälchli|2018-05-09,
+RUN: 2299|Virginia Tan|2018-01-10,
+RUN: 2276|Martha Maier|2017-08-02,
+RUN: 2270|Neil Campbell|2017-06-21,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="466">
+            <IconStyle id="468">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="469">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="467">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2266|Sandra Soliano|2017-05-24,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="473">
+            <IconStyle id="475">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="476">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="474">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2259|Nazli Ebrahimi|2017-04-05,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="480">
+            <IconStyle id="482">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="483">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="481">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2256|Azurina|2017-03-15,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="487">
+            <IconStyle id="489">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="490">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="488">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2251|Soo Kan Hoy|2017-02-08,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="494">
+            <IconStyle id="496">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="497">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="495">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2560|Charles Lee|2024-08-14,
+RUN: 2539|Janova Stevenson|2024-03-20,
+RUN: 2523|Mark Taylor|2023-11-29,
+RUN: 2509|Charles Lee|2023-08-23,
+RUN: 2484|Janova Stevenson|2023-03-01,
+RUN: 2460|Charles Lee|2022-09-14,
+RUN: 2393|Charles Lee|2019-10-30,
+RUN: 2370|Jessica Low|2019-05-22,
+RUN: 2349|Soo Kan Hoy|2018-12-26,
+RUN: 2341|Janova Stevenson|2018-10-31,
+RUN: 2329|FC Wong |2018-08-08,
+RUN: 2298|Sin Loy Chew|2018-01-03,
+RUN: 2286|Charles Lee|2017-10-11,
+RUN: 2247|Daniel Wälchli|2017-01-11,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="501">
+            <IconStyle id="503">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="504">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="502">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2405|Lewie Dekker|2020-01-22,
+RUN: 2403|Roger Gregson|2020-01-08,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="508">
+            <IconStyle id="510">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="511">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="509">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2293|Soh Yoke Chun|2017-11-29,
+RUN: 2278|Kathy Ling|2017-08-16,
+RUN: 2262|Lewie Dekker|2017-04-26,
+RUN: 2253|Alina Teo |2017-02-22,
+RUN: 2246|Soh Kam Eng|2017-01-04,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="515">
+            <IconStyle id="517">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="518">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="516">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2520|Veron Seah|2023-11-08,
+RUN: 2388|Nan Kanagasabai|2019-09-25,
+RUN: 2360|Michael Chow|2019-03-13,
+RUN: 2245|Eric Teo |2016-12-28,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="522">
+            <IconStyle id="524">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="525">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="523">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2239|Passcuran|2016-11-16,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="529">
+            <IconStyle id="531">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="532">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="530">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2236|Wim Michiels|2016-10-26,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="536">
+            <IconStyle id="538">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="539">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="537">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2354|Mae Yew|2019-01-30,
+RUN: 2339|Charlotte Donvang|2018-10-17,
+RUN: 2241|Charlotte Donvang|2016-11-30,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="543">
+            <IconStyle id="545">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="546">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="544">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2558|Leslie Antoine|2024-07-31,
+RUN: 2532|Frank Wijnands|2024-01-31,
+RUN: 2498|Christi Holleman|2023-06-07,
+RUN: 2491|Lisette Davis|2023-04-19,
+RUN: 2433|David Lake|2022-03-09,
+RUN: 2418|Mae Yew|2021-11-24,
+RUN: 2410|Lisette Davis|2020-02-26,
+RUN: 2399|Frank Wijnands|2019-12-11,
+RUN: 2355|Stefan Sanders|2019-02-06,
+RUN: 2344|Erik Blokhuis|2018-11-21,
+RUN: 2334|Nini Davis|2018-09-12,
+RUN: 2330|David Lake|2018-08-15,
+RUN: 2302|Leslie Antoine|2018-01-31,
+RUN: 2294|Tony Houldsworth|2017-12-06,
+RUN: 2282|Mae Yew|2017-09-13,
+RUN: 2260|Frank Wijnands|2017-04-12,
+RUN: 2237|Thevy Appalasamy|2016-11-02,
+RUN: 2234|Adeline Goh|2016-10-12,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="550">
+            <IconStyle id="552">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="553">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="551">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2563|Syamalah|2024-09-04,
+RUN: 2553|Lilian Wong|2024-06-26,
+RUN: 2495|Elisabeth Laubel|2023-05-17,
+RUN: 2445|Nancy Cassiere|2022-06-01,
+RUN: 2434|Elisabeth Laubel|2022-03-16,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="557">
+            <IconStyle id="559">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="560">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="558">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2469|Leslie Antoine|2022-11-16,
+RUN: 2367|Chris Leighton|2019-05-01,
+RUN: 2318|Syamalah|2018-05-23,
+RUN: 2291|John Koh|2017-11-15,
+RUN: 2279|Elisabeth Laubel|2017-08-23,
+RUN: 2252|Veron Seah|2017-02-15,
+RUN: 2249|Louise Edmondson|2017-01-25,
+RUN: 2233|Patrick Koebel|2016-10-05,
+RUN: 2230|Mynne Tan|2016-09-14,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="564">
+            <IconStyle id="566">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="567">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="565">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2308|Gary Murrell|2018-03-14,
+RUN: 2229|Margaret Lim|2016-09-07,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="571">
+            <IconStyle id="573">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="574">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="572">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2575|Mike Rickard|2024-11-27,
+RUN: 2377|Mark Taylor|2019-07-10,
+RUN: 2350|Neil Campbell|2019-01-02,
+RUN: 2310|Liew Lee Yook|2018-03-28,
+RUN: 2297|Neil Campbell|2017-12-27,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="578">
+            <IconStyle id="580">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="581">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="579">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2557|Lisette Davis|2024-07-24,
+RUN: 2535|Nori Lake|2024-02-21,
+RUN: 2521|John Dodgson|2023-11-15,
+RUN: 2497|Steve Chan|2023-05-31,
+RUN: 2480|Thomas Roch|2023-02-01,
+RUN: 2466|Jimmy Leggett|2022-10-26,
+RUN: 2459|John Dodgson|2022-09-07,
+RUN: 2426|Steve Chan|2022-01-19,
+RUN: 2422|John Dodgson|2021-12-22,
+RUN: 2366|Josie Mazur|2019-04-24,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="585">
+            <IconStyle id="587">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="588">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="586">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2227|Maria Galindon|2016-08-24,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="592">
+            <IconStyle id="594">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="595">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="593">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2314|Eric Teo |2018-04-25,
+RUN: 2238|Mary Morss|2016-11-09,
+RUN: 2224|Robin Koh|2016-08-03,
+RUN: 2216|Josephine Koay|2016-06-08,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="599">
+            <IconStyle id="601">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="602">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="600">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2340|Kwai Hoong|2018-10-24,
+RUN: 2320|Veron Seah|2018-06-06,
+RUN: 2305|Chris Leighton|2018-02-21,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="606">
+            <IconStyle id="608">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="609">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="607">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2494|Nancy Stott|2023-05-10,
+RUN: 2475|Sandra Soliano|2022-12-28,
+RUN: 2423|Passcuran|2021-12-29,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="613">
+            <IconStyle id="615">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="616">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="614">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2353|John Koh|2019-01-23,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="620">
+            <IconStyle id="622">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="623">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="621">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2543|Tommy Chin|2024-04-17,
+RUN: 2425|Johan Van Geyzel|2022-01-12,
+RUN: 2407|Kwai Hoong|2020-02-05,
+RUN: 2289|Kana Karthigesu|2017-11-01,
+RUN: 2275|Liz Tan|2017-07-26,
+RUN: 2257|Sim Campbell|2017-03-22,
+RUN: 2243|Diva Nair|2016-12-14,
+RUN: 2231|Selvarani Viswalingam|2016-09-21,
+RUN: 2222|Liz Tan|2016-07-20,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="627">
+            <IconStyle id="629">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="630">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="628">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2568|Mose Mose|2024-10-09,
+RUN: 2479|Mose Mose|2023-01-25,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="634">
+            <IconStyle id="636">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="637">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="635">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2394|Don Cheang |2019-11-06,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="641">
+            <IconStyle id="643">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="644">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="642">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2309|Don Cheang |2018-03-21,
+RUN: 2228|Don Cheang |2016-08-31,
+RUN: 2221|Virginia Tan|2016-07-13,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="648">
+            <IconStyle id="650">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="651">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="649">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2417|Simon Hannon|2021-11-17,
+RUN: 2383|Syamalah|2019-08-21,
+RUN: 2356|Simon Hannon|2019-02-13,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="655">
+            <IconStyle id="657">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="658">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="656">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2572|Passcuran|2024-11-06,
+RUN: 2555|Danny Lim|2024-07-10,
+RUN: 2528|Liz Tan|2024-01-03,
+RUN: 2503|Syamalah|2023-07-12,
+RUN: 2471|Guru Johal|2022-11-30,
+RUN: 2456|Gwen Cheong|2022-08-17,
+RUN: 2438|Don Cheang |2022-04-13,
+RUN: 2435|Syamalah|2022-03-23,
+RUN: 2432|Hans Schmitter|2022-03-02,
+RUN: 2397|Josephine Koay|2019-11-27,
+RUN: 2306|Mynne Tan|2018-02-28,
+RUN: 2296|Josephine Koay|2017-12-20,
+RUN: 2250|Michael Tan|2017-02-01,
+RUN: 2220|Sin Loy Chew|2016-07-06,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="662">
+            <IconStyle id="664">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="665">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="663">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2322|Sarukunavathy Packrisamy|2018-06-20,
+RUN: 2292|Roger Gregson|2017-11-22,
+RUN: 2261|Sarukunavathy Packrisamy|2017-04-19,
+RUN: 2242|Liew Lee Yook|2016-12-07,
+RUN: 2219|Mei Mei|2016-06-29,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="669">
+            <IconStyle id="671">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="672">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="670">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2571|Mark Taylor|2024-10-30,
+RUN: 2556|Diva Nair|2024-07-17,
+RUN: 2536|Daniel Wälchli|2024-02-28,
+RUN: 2525|Neil Campbell|2023-12-13,
+RUN: 2507|Jo Yoong|2023-08-09,
+RUN: 2477|Daniel Wälchli|2023-01-11,
+RUN: 2472|Nori Lake|2022-12-07,
+RUN: 2380|Jo Yoong|2019-07-31,
+RUN: 2327|Lewie Dekker|2018-07-25,
+RUN: 2323|Soh Kam Eng|2018-06-27,
+RUN: 2287|Jo Yoong|2017-10-18,
+RUN: 2274|Carol Moosdeen|2017-07-19,
+RUN: 2268|John Castleman|2017-06-07,
+RUN: 2258|Richard Gascoigne|2017-03-29,
+RUN: 2225|Richard Gascoigne|2016-08-10,
+RUN: 2218|Jo Yoong|2016-06-22,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="676">
+            <IconStyle id="678">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="679">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="677">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2277|Nini Davis|2017-08-09,
+RUN: 2272|Steve Chan|2017-07-05,
+RUN: 2217|Sim Campbell|2016-06-15,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="683">
+            <IconStyle id="685">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="686">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="684">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2337|Ingrid Van Haasterecht|2018-10-03,
+RUN: 2303|Frank Wijnands|2018-02-07,
+RUN: 2244|Frank Wijnands|2016-12-21,
+RUN: 2215|Frank Wijnands|2016-06-01,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="690">
+            <IconStyle id="692">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="693">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="691">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2552|Shann|2024-06-19,
+RUN: 2524|Passcuran|2023-12-06,
+RUN: 2421|Tommy Chin|2021-12-15,
+RUN: 2364|Guru Johal|2019-04-10,
+RUN: 2362|Reuben Lamack|2019-03-27,
+RUN: 2359|Miki Loh|2019-03-06,
+RUN: 2357|Alina Teo |2019-02-20,
+RUN: 2343|Passcuran|2018-11-14,
+RUN: 2338|May Rendezvous|2018-10-10,
+RUN: 2331|Hans Schmitter|2018-08-22,
+RUN: 2304|David Jenkins|2018-02-14,
+RUN: 2300|Hans Schmitter|2018-01-17,
+RUN: 2290|Passcuran|2017-11-08,
+RUN: 2288|Ima Druba|2017-10-25,
+RUN: 2285|Michael Chew|2017-10-04,
+RUN: 2273|Mei Mei|2017-07-12,
+RUN: 2267|May Rendezvous|2017-05-31,
+RUN: 2263|Uncle Soo|2017-05-03,
+RUN: 2248|Danny Lim|2017-01-18,
+RUN: 2240|Yoong Yee Chin|2016-11-23,
+RUN: 2223|Hans Schmitter|2016-07-27,
+RUN: 2213|Chai Leng|2016-05-18,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="697">
+            <IconStyle id="699">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="700">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="698">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2212|Roger Gregson|2016-05-11,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="704">
+            <IconStyle id="706">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="707">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="705">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2265|Ellia Murrell |2017-05-17,
+RUN: 2232|FC Wong |2016-09-28,
+RUN: 2211|Kana Karthigesu|2016-05-04,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="711">
+            <IconStyle id="713">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="714">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="712">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2382|Leslie Antoine|2019-08-14,
+RUN: 2210|Johan Van Geyzel|2016-04-27,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="718">
+            <IconStyle id="720">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="721">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="719">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2527|Mike Rickard|2023-12-27,
+RUN: 2455|Soh Kam Eng|2022-08-10,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="725">
+            <IconStyle id="727">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="728">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="726">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2453|Soh Yoke Chun|2022-07-27,
+RUN: 2444|Jo Yoong|2022-05-25,
+RUN: 2428|Diva Nair|2022-02-02,
+RUN: 2424|Kana Karthigesu|2022-01-05,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="732">
+            <IconStyle id="734">
+                <color>ffd18802</color>
+                <colorMode>normal</colorMode>
+                <scale>1.7</scale>
+                <heading>0</heading>
+                <Icon id="735">
+                    <href>https://3c-coaching.net/assets/location_bunny.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="733">
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text>RUN: 2514|Diva Nair|2023-09-27,
+RUN: 2492|Kat Lee Rickard|2023-04-26,
+RUN: 2483|Kana Karthigesu|2023-02-22,
+RUN: 2470|Virginia Tan|2022-11-23,
+RUN: 2451|Selvarani Viswalingam|2022-07-13,
+RUN: 2427|Lewie Dekker|2022-01-26,
+RUN: 2408|Soh Kam Eng|2020-02-12,
+RUN: 2402|FC Wong |2020-01-01,
+RUN: 2400|Jimmy Leggett|2019-12-18,
+RUN: 2376|Virginia Tan|2019-07-03,
+RUN: 2373|Frank Wijnands|2019-06-12,
+RUN: 2371|Rob Stott|2019-05-29,
+RUN: 2361|Ellia Murrell |2019-03-20,
+RUN: 2342|Mark Taylor|2018-11-07,
+RUN: 2335|Nini Davis|2018-09-19,
+RUN: 2328|Rob Stott|2018-08-01,
+RUN: 2325|Nazli Ebrahimi|2018-07-11,
+RUN: 2324|Jimmy Leggett|2018-07-04,
+RUN: 2321|Patsy Yap|2018-06-13,
+RUN: 2312|Ion Mazareanu|2018-04-11,
+RUN: 2269|Stefan Sanders|2017-06-14,
+RUN: 2264|Rob Stott|2017-05-10,
+RUN: 2254|Patsy Yap|2017-03-01,
+RUN: 2235|Ron Sparling|2016-10-19,
+RUN: 2226|Gary Murrell|2016-08-17,
+RUN: 2208|Mark Taylor|2016-04-13,
+</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <name>KLHHH Run Locations</name>
+        <Placemark id="3">
+            <name>Hash Museum, Old Klang Road</name>
+            <description>RUN: 2567|Sue Ng|2024-10-02,
+RUN: 2550|Miki Loh|2024-06-05,
+RUN: 2534|Mose Mose|2024-02-14,
+</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>101.6761,3.1132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10">
+            <name>Taman Bukit Indah</name>
+            <description>RUN: 2538|Trui Knijnenburg|2024-03-13,
+RUN: 2517|Mynne Tan|2023-10-18,
+</description>
+            <styleUrl>#11</styleUrl>
+            <Point id="9">
+                <coordinates>101.7737,3.1574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Taman Bukit Permata, Batu Caves</name>
+            <description>RUN: 2569|Christi Holleman|2024-10-16,
+RUN: 2547|Reuben Lamack|2024-05-15,
+RUN: 2519|Kathy Ling|2023-11-01,
+RUN: 2512|Leslie Antoine|2023-09-13,
+</description>
+            <styleUrl>#18</styleUrl>
+            <Point id="16">
+                <coordinates>101.7019,3.2594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24">
+            <name>Persiaran Shorea, Elmina</name>
+            <description>RUN: 2500|Mary Morss|2023-06-21,
+RUN: 2493|Netti Kutsche-Roch|2023-05-03,
+</description>
+            <styleUrl>#25</styleUrl>
+            <Point id="23">
+                <coordinates>101.4944,3.194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Bandar Sri Coalfields</name>
+            <description>RUN: 2576|Josephine Koay|2024-12-04,
+</description>
+            <styleUrl>#32</styleUrl>
+            <Point id="30">
+                <coordinates>101.4918,3.2516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>Kampung Harmonis/Kampung Kerling</name>
+            <description>RUN: 2574|Thomas Roch|2024-11-20,
+</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>101.5413,3.4866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Janda Baik</name>
+            <description>RUN: 2573|Delphy Dawson|2024-11-13,
+</description>
+            <styleUrl>#46</styleUrl>
+            <Point id="44">
+                <coordinates>101.8549,3.3296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52">
+            <name>SJK(C) Kuen Cheng 2 parking lot, Bukit Seputeh KL</name>
+            <description>RUN: 2565|Neptunus |2024-09-18,
+</description>
+            <styleUrl>#53</styleUrl>
+            <Point id="51">
+                <coordinates>101.6936,3.1183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Ladang Waterfall Estate</name>
+            <description>RUN: 2564|Netti Kutsche-Roch|2024-09-11,
+</description>
+            <styleUrl>#60</styleUrl>
+            <Point id="58">
+                <coordinates>101.5192,3.3562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66">
+            <name>Nilai Dededi Seafood Restaurant, Nilai</name>
+            <description>RUN: 2562|Kathy Ling|2024-08-28,
+</description>
+            <styleUrl>#67</styleUrl>
+            <Point id="65">
+                <coordinates>101.7501,2.8073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Jalan PJU 3/38, Sunway Damansara Technology Park, Bukit Lanjan</name>
+            <description>RUN: 2561|Jess Ong|2024-08-21,
+</description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>101.6001,3.1605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80">
+            <name>Jalan Setiabistari, Damansara Heights</name>
+            <description>RUN: 2551|John Koh|2024-06-12,
+</description>
+            <styleUrl>#81</styleUrl>
+            <Point id="79">
+                <coordinates>101.6554,3.1424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Jalan Rumpai, Bangsar</name>
+            <description>RUN: 2549|Kwai Hoong|2024-05-29,
+</description>
+            <styleUrl>#88</styleUrl>
+            <Point id="86">
+                <coordinates>101.6719,3.1438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94">
+            <name>Bukit Tagar, 500m past &quot;Abang Mail ATV Place&quot;</name>
+            <description>RUN: 2545|Saw Hua Pui|2024-05-01,
+</description>
+            <styleUrl>#95</styleUrl>
+            <Point id="93">
+                <coordinates>101.517,3.4861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Taman Melati, Serendah</name>
+            <description>RUN: 2522|Soh Kam Eng|2023-11-22,
+</description>
+            <styleUrl>#102</styleUrl>
+            <Point id="100">
+                <coordinates>101.5981,3.3699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>Setia Eco Park (Carpark)</name>
+            <description>RUN: 2515|Guru Johal|2023-10-04,
+</description>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>101.4758,3.1333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Tuan Mee Estate, Bandar Seri Coalfields</name>
+            <description>RUN: 2511|Josephine Koay|2023-09-06,
+</description>
+            <styleUrl>#116</styleUrl>
+            <Point id="114">
+                <coordinates>101.4831,3.2514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="122">
+            <name>Tasik Beruang, Shah Alam Backyard Trail</name>
+            <description>RUN: 2510|Connie Feer|2023-08-30,
+</description>
+            <styleUrl>#123</styleUrl>
+            <Point id="121">
+                <coordinates>101.4869,3.1007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Stadium Kota Raja, Klang</name>
+            <description>RUN: 2505|Selvarani Viswalingam|2023-07-26,
+</description>
+            <styleUrl>#130</styleUrl>
+            <Point id="128">
+                <coordinates>101.4494,3.0381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="136">
+            <name>Taman Rimba TTDI</name>
+            <description>RUN: 2504|Rita Ngadol Scourse|2023-07-19,
+</description>
+            <styleUrl>#137</styleUrl>
+            <Point id="135">
+                <coordinates>101.6324,3.1398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Alam Awana Industrial Park</name>
+            <description>RUN: 2501|Shann|2023-06-28,
+</description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>101.475,3.1619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="150">
+            <name>Bukit Jalil</name>
+            <description>RUN: 2489|Reuben Lamack|2023-04-05,
+RUN: 2450|Reuben Lamack|2022-07-06,
+</description>
+            <styleUrl>#151</styleUrl>
+            <Point id="149">
+                <coordinates>101.6945,3.0615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Serendah, behind KTM</name>
+            <description>RUN: 2548|Nancy Stott|2024-05-22,
+RUN: 2537|Rob Stott|2024-03-06,
+RUN: 2476|Chris Leighton|2023-01-04,
+</description>
+            <styleUrl>#158</styleUrl>
+            <Point id="156">
+                <coordinates>101.6175,3.3806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="164">
+            <name>Sungai Long</name>
+            <description>RUN: 2541|Ann Choo|2024-04-03,
+RUN: 2531|Thomas Roch|2024-01-24,
+RUN: 2529|Sandra Soliano|2024-01-10,
+RUN: 2518|John Castleman|2023-10-25,
+RUN: 2508|Sue Ng|2023-08-16,
+RUN: 2473|Frank Wijnands|2022-12-14,
+</description>
+            <styleUrl>#165</styleUrl>
+            <Point id="163">
+                <coordinates>101.8152,3.0607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>Ladang Antara Gapi</name>
+            <description>RUN: 2542|Sim Campbell|2024-04-10,
+RUN: 2463|Neil Campbell|2022-10-05,
+</description>
+            <styleUrl>#172</styleUrl>
+            <Point id="170">
+                <coordinates>101.6248,3.3982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <name>Federal Hill,KL</name>
+            <description>RUN: 2488|Nan Kanagasabai|2023-03-29,
+RUN: 2462|John Koh|2022-09-28,
+</description>
+            <styleUrl>#179</styleUrl>
+            <Point id="177">
+                <coordinates>101.6742,3.1427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>Bukit Cherakah Trailhead, Puncak Alam</name>
+            <description>RUN: 2506|Delphy Dawson|2023-08-02,
+RUN: 2461|Mary Morss|2022-09-21,
+</description>
+            <styleUrl>#186</styleUrl>
+            <Point id="184">
+                <coordinates>101.4041,3.2308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="192">
+            <name>Sunway Rymba Hills</name>
+            <description>RUN: 2454|Kathy Ling|2022-08-03,
+</description>
+            <styleUrl>#193</styleUrl>
+            <Point id="191">
+                <coordinates>101.6008,3.1683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>26, Jalan Kerayong Bukit Petaling 50460 Kuala Lumpur</name>
+            <description>RUN: 2452|Liz Tan|2022-07-20,
+</description>
+            <styleUrl>#200</styleUrl>
+            <Point id="198">
+                <coordinates>101.7013,3.128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="206">
+            <name>Kampung Orang Asli Kuang</name>
+            <description>RUN: 2513|Roger Gregson|2023-09-20,
+RUN: 2448|Roger Gregson|2022-06-22,
+</description>
+            <styleUrl>#207</styleUrl>
+            <Point id="205">
+                <coordinates>101.5846,3.2632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Bukit Serdang</name>
+            <description>RUN: 2443|Miki Loh|2022-05-18,
+</description>
+            <styleUrl>#214</styleUrl>
+            <Point id="212">
+                <coordinates>101.6905,3.021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="220">
+            <name> Bandar Baru Selayang</name>
+            <description>RUN: 2554|Connie Feer|2024-07-03,
+RUN: 2530|Mei Mei|2024-01-17,
+RUN: 2499|Danny Lim|2023-06-14,
+RUN: 2490|Ann Choo|2023-04-12,
+RUN: 2474|Mei Mei|2022-12-21,
+RUN: 2468|Passcuran|2022-11-09,
+RUN: 2464|Trui Knijnenburg|2022-10-12,
+RUN: 2458|Veron Seah|2022-08-31,
+RUN: 2442|Mynne Tan|2022-05-11,
+</description>
+            <styleUrl>#221</styleUrl>
+            <Point id="219">
+                <coordinates>101.6615,3.2607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Persiaran Bukit Takun 1</name>
+            <description>RUN: 2441|Kat Lee Rickard|2022-05-04,
+</description>
+            <styleUrl>#228</styleUrl>
+            <Point id="226">
+                <coordinates>101.6215,3.2984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="234">
+            <name>Kampung Jaya Setia, Bestari Jaya</name>
+            <description>RUN: 2440|Josephine Koay|2022-04-27,
+</description>
+            <styleUrl>#235</styleUrl>
+            <Point id="233">
+                <coordinates>101.4344,3.374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>Kelab Menembak Kajang   </name>
+            <description>RUN: 2439|Michael Chow|2022-04-20,
+</description>
+            <styleUrl>#242</styleUrl>
+            <Point id="240">
+                <coordinates>101.8294,3.01,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="248">
+            <name> Taman Wahyu, Jalan  Sibu 1</name>
+            <description>RUN: 2437|Danny Lim|2022-04-06,
+RUN: 2431|Christi Holleman|2022-02-23,
+</description>
+            <styleUrl>#249</styleUrl>
+            <Point id="247">
+                <coordinates>101.6697,3.2082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Bukit Bayu</name>
+            <description>RUN: 2533|Kat Lee Rickard|2024-02-07,
+RUN: 2482|Wildboar|2023-02-15,
+RUN: 2416|Guest Hare|2021-11-10,
+</description>
+            <styleUrl>#256</styleUrl>
+            <Point id="254">
+                <coordinates>101.5022,3.1243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="262">
+            <name>Taman Sains Selangor</name>
+            <description>RUN: 2420|Ingrid Van Haasterecht|2021-12-08,
+RUN: 2415|Guest Hare|2021-11-03,
+</description>
+            <styleUrl>#263</styleUrl>
+            <Point id="261">
+                <coordinates>101.5692,3.1481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Desa Park City, Baptist Church Car Park</name>
+            <description>RUN: 2526|Guest Hare|2023-12-20,
+RUN: 2485|Johan Van Geyzel|2023-03-08,
+RUN: 2446|Sue Ng|2022-06-08,
+RUN: 2429|Nancy Wakeham|2022-02-09,
+RUN: 2401|Daniel Wälchli|2019-12-25,
+</description>
+            <styleUrl>#270</styleUrl>
+            <Point id="268">
+                <coordinates>101.628,3.1823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="276">
+            <name>Hulu Langat</name>
+            <description>RUN: 2396|Sin Loy Chew|2019-11-20,
+</description>
+            <styleUrl>#277</styleUrl>
+            <Point id="275">
+                <coordinates>101.8282,3.1201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>Taman Bukit Indah, Ampang</name>
+            <description>RUN: 2389|Christi Holleman|2019-10-02,
+</description>
+            <styleUrl>#284</styleUrl>
+            <Point id="282">
+                <coordinates>101.776,3.1575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="290">
+            <name>National Shooting Association of Malaysia, Subang</name>
+            <description>RUN: 2502|Guest Hare|2023-07-05,
+RUN: 2478|Martha Maier|2023-01-18,
+RUN: 2467|Sarukunavathy Packrisamy|2022-11-02,
+RUN: 2449|Ingrid Van Haasterecht|2022-06-29,
+RUN: 2436|Lisette Davis|2022-03-30,
+RUN: 2391|Martha Maier|2019-10-16,
+RUN: 2387|Soh Yoke Chun|2019-09-18,
+RUN: 2374|Diva Nair|2019-06-19,
+</description>
+            <styleUrl>#291</styleUrl>
+            <Point id="289">
+                <coordinates>101.5672,3.1322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Desa Tropika</name>
+            <description>RUN: 2386|Nini Davis|2019-09-11,
+</description>
+            <styleUrl>#298</styleUrl>
+            <Point id="296">
+                <coordinates>101.4699,3.1702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="304">
+            <name>Water View Thai - Hulu Langgat</name>
+            <description>RUN: 2385|Bas Beekkerk|2019-09-04,
+</description>
+            <styleUrl>#305</styleUrl>
+            <Point id="303">
+                <coordinates>101.8293,3.1123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Mimaland Recreation Theme Park in Gombak</name>
+            <description>RUN: 2412|Trui Knijnenburg|2020-03-11,
+RUN: 2381|Eric Teo |2019-08-07,
+</description>
+            <styleUrl>#312</styleUrl>
+            <Point id="310">
+                <coordinates>101.7246,3.2836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="318">
+            <name>Bukit Beruntong Prima</name>
+            <description>RUN: 2379|Steve Chan|2019-07-24,
+</description>
+            <styleUrl>#319</styleUrl>
+            <Point id="317">
+                <coordinates>101.5419,3.4014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Bukit Lagong</name>
+            <description>RUN: 2486|Tommy Chin|2023-03-15,
+RUN: 2395|Danny Lim|2019-11-13,
+RUN: 2375|Delphy Dawson|2019-06-26,
+</description>
+            <styleUrl>#326</styleUrl>
+            <Point id="324">
+                <coordinates>101.6388,3.2584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="332">
+            <name>Ulu Yam Baru, Batang Kali</name>
+            <description>RUN: 2580|Neil Campbell|2025-01-01,
+RUN: 2570|Annie Ng|2024-10-23,
+RUN: 2566|Mike Cowan|2024-09-25,
+RUN: 2409|David Hirst|2020-02-19,
+</description>
+            <styleUrl>#333</styleUrl>
+            <Point id="331">
+                <coordinates>101.6732,3.4349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Langat Ah Soon Seafood and Beer Garden Restaurant </name>
+            <description>RUN: 2496|David Lake|2023-05-24,
+RUN: 2392|Charlotte Donvang|2019-10-23,
+RUN: 2372|Mei Mei|2019-06-05,
+</description>
+            <styleUrl>#340</styleUrl>
+            <Point id="338">
+                <coordinates>101.8166,3.1063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="346">
+            <name>Ladang Guru Nanak, Serendah</name>
+            <description>RUN: 2516|Soh Yoke Chun|2023-10-11,
+RUN: 2487|Rob Stott|2023-03-22,
+RUN: 2481|Sim Campbell|2023-02-08,
+RUN: 2465|Mark Taylor|2022-10-19,
+RUN: 2447|Mike Rickard|2022-06-15,
+RUN: 2430|Nancy Stott|2022-02-16,
+RUN: 2413|Ingrid Van Haasterecht|2020-07-08,
+RUN: 2404|Saw Hua Pui|2020-01-15,
+RUN: 2384|Veron Seah|2019-08-28,
+RUN: 2368|Sim Campbell|2019-05-08,
+</description>
+            <styleUrl>#347</styleUrl>
+            <Point id="345">
+                <coordinates>101.6249,3.4115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>LCCT KLIA </name>
+            <description>RUN: 2363|Dominique Dall’Acqua|2019-04-03,
+</description>
+            <styleUrl>#354</styleUrl>
+            <Point id="352">
+                <coordinates>101.6996,2.7045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="360">
+            <name>Bangi / Dengkil</name>
+            <description>RUN: 2352|John Castleman|2019-01-16,
+</description>
+            <styleUrl>#361</styleUrl>
+            <Point id="359">
+                <coordinates>101.739,2.8905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Taman Tugu</name>
+            <description>RUN: 2351|Johan Van Geyzel|2019-01-09,
+</description>
+            <styleUrl>#368</styleUrl>
+            <Point id="366">
+                <coordinates>101.683,3.1507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="374">
+            <name>Bukit Tinggi / Janda Baik (after SMK Bukit Tinggi)</name>
+            <description>RUN: 2348|Tommy Chin|2018-12-19,
+</description>
+            <styleUrl>#375</styleUrl>
+            <Point id="373">
+                <coordinates>101.8415,3.3564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Agrotek, Hulu Langat</name>
+            <description>RUN: 2346|Frank Wijnands|2018-12-05,
+</description>
+            <styleUrl>#382</styleUrl>
+            <Point id="380">
+                <coordinates>101.8274,3.1629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="388">
+            <name>Bukit Tinggi</name>
+            <description>RUN: 2365|Kat Lee Rickard|2019-04-17,
+RUN: 2345|Francesco|2018-11-28,
+</description>
+            <styleUrl>#389</styleUrl>
+            <Point id="387">
+                <coordinates>101.798,3.3529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>Bukit Tadun</name>
+            <description>RUN: 2378|Liew Lee Yook|2019-07-17,
+RUN: 2336|Wim Michiels|2018-09-26,
+</description>
+            <styleUrl>#396</styleUrl>
+            <Point id="394">
+                <coordinates>101.545,3.2565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="402">
+            <name>Kampung Penchala</name>
+            <description>RUN: 2559|Rita Ngadol Scourse|2024-08-07,
+RUN: 2546|Wildboar|2024-05-08,
+RUN: 2317|Louise Edmondson|2018-05-16,
+</description>
+            <styleUrl>#403</styleUrl>
+            <Point id="401">
+                <coordinates>101.6336,3.1768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>Sime Darby Plantation, Jalan Kuang (B25)</name>
+            <description>RUN: 2315|Charles Lee|2018-05-02,
+</description>
+            <styleUrl>#410</styleUrl>
+            <Point id="408">
+                <coordinates>101.5589,3.2782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="416">
+            <name>Somewhere after the Atomic Energy Licensing Board, Off Jalan Dengkil, Batu 24 </name>
+            <description>RUN: 2307|Michael Chow|2018-03-07,
+</description>
+            <styleUrl>#417</styleUrl>
+            <Point id="415">
+                <coordinates>101.7483,2.8926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>Jalan 48/70A, SMK Seri Hartamas School as landmark</name>
+            <description>RUN: 2540|Nan Kanagasabai|2024-03-27,
+RUN: 2457|Ann Choo|2022-08-24,
+RUN: 2398|John Koh|2019-12-04,
+RUN: 2347|Martha Maier|2018-12-12,
+RUN: 2311|Martha Maier|2018-04-04,
+RUN: 2295|Ron Sparling|2017-12-13,
+RUN: 2284|Saw Hua Pui|2017-09-27,
+RUN: 2214|John Koh|2016-05-25,
+</description>
+            <styleUrl>#424</styleUrl>
+            <Point id="422">
+                <coordinates>101.647,3.158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="430">
+            <name>Kampung Baru Kundang</name>
+            <description>RUN: 2577|Soh Yoke Chun|2024-12-11,
+RUN: 2419|Chris Leighton|2021-12-01,
+RUN: 2414|Mei Mei|2020-10-07,
+RUN: 2313|Sim Campbell|2018-04-18,
+RUN: 2283|Sen Soon Mun|2017-09-20,
+</description>
+            <styleUrl>#431</styleUrl>
+            <Point id="429">
+                <coordinates>101.5055,3.2716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>Saujana Utama, Sg. Buloh </name>
+            <description>RUN: 2281|Mark Taylor|2017-09-06,
+</description>
+            <styleUrl>#438</styleUrl>
+            <Point id="436">
+                <coordinates>101.4928,3.198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="444">
+            <name>Taman Rimba Ampang </name>
+            <description>RUN: 2544|Johan Van Geyzel|2024-04-24,
+RUN: 2280|Johan Van Geyzel|2017-08-30,
+</description>
+            <styleUrl>#445</styleUrl>
+            <Point id="443">
+                <coordinates>101.7912,3.1494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>Puchong Wawasan</name>
+            <description>RUN: 2271|Adeline Goh|2017-06-28,
+</description>
+            <styleUrl>#452</styleUrl>
+            <Point id="450">
+                <coordinates>101.6297,3.0253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="458">
+            <name>Bukit Cerakah, Jalan Bukit Cerakah</name>
+            <description>RUN: 2579|Mary Morss|2024-12-25,
+RUN: 2406|Stuart Wakeham|2020-01-29,
+RUN: 2316|Daniel Wälchli|2018-05-09,
+RUN: 2299|Virginia Tan|2018-01-10,
+RUN: 2276|Martha Maier|2017-08-02,
+RUN: 2270|Neil Campbell|2017-06-21,
+</description>
+            <styleUrl>#459</styleUrl>
+            <Point id="457">
+                <coordinates>101.4523,3.1751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>Bukit Bayu, Shah Alam </name>
+            <description>RUN: 2266|Sandra Soliano|2017-05-24,
+</description>
+            <styleUrl>#466</styleUrl>
+            <Point id="464">
+                <coordinates>101.503,3.1291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="472">
+            <name>Bandar Sunway Semenyih </name>
+            <description>RUN: 2259|Nazli Ebrahimi|2017-04-05,
+</description>
+            <styleUrl>#473</styleUrl>
+            <Point id="471">
+                <coordinates>101.8491,2.9712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>Persiaran Surian</name>
+            <description>RUN: 2256|Azurina|2017-03-15,
+</description>
+            <styleUrl>#480</styleUrl>
+            <Point id="478">
+                <coordinates>101.6009,3.1692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="486">
+            <name>Sime Darby Estate (Rawang to Kuang Road)</name>
+            <description>RUN: 2251|Soo Kan Hoy|2017-02-08,
+</description>
+            <styleUrl>#487</styleUrl>
+            <Point id="485">
+                <coordinates>101.332,3.1631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>Klang Shooting Club (Jln Paip Kiri, Bukit Kapar)</name>
+            <description>RUN: 2560|Charles Lee|2024-08-14,
+RUN: 2539|Janova Stevenson|2024-03-20,
+RUN: 2523|Mark Taylor|2023-11-29,
+RUN: 2509|Charles Lee|2023-08-23,
+RUN: 2484|Janova Stevenson|2023-03-01,
+RUN: 2460|Charles Lee|2022-09-14,
+RUN: 2393|Charles Lee|2019-10-30,
+RUN: 2370|Jessica Low|2019-05-22,
+RUN: 2349|Soo Kan Hoy|2018-12-26,
+RUN: 2341|Janova Stevenson|2018-10-31,
+RUN: 2329|FC Wong |2018-08-08,
+RUN: 2298|Sin Loy Chew|2018-01-03,
+RUN: 2286|Charles Lee|2017-10-11,
+RUN: 2247|Daniel Wälchli|2017-01-11,
+</description>
+            <styleUrl>#494</styleUrl>
+            <Point id="492">
+                <coordinates>101.4593,3.1594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="500">
+            <name>Setia Alam Community Trail</name>
+            <description>RUN: 2405|Lewie Dekker|2020-01-22,
+RUN: 2403|Roger Gregson|2020-01-08,
+</description>
+            <styleUrl>#501</styleUrl>
+            <Point id="499">
+                <coordinates>101.4757,3.1214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>Setia Alam Water Tank</name>
+            <description>RUN: 2293|Soh Yoke Chun|2017-11-29,
+RUN: 2278|Kathy Ling|2017-08-16,
+RUN: 2262|Lewie Dekker|2017-04-26,
+RUN: 2253|Alina Teo |2017-02-22,
+RUN: 2246|Soh Kam Eng|2017-01-04,
+</description>
+            <styleUrl>#508</styleUrl>
+            <Point id="506">
+                <coordinates>101.4763,3.1222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="514">
+            <name>Kg. Sungei Buah, Bangi - Emville Golf Club</name>
+            <description>RUN: 2520|Veron Seah|2023-11-08,
+RUN: 2388|Nan Kanagasabai|2019-09-25,
+RUN: 2360|Michael Chow|2019-03-13,
+RUN: 2245|Eric Teo |2016-12-28,
+</description>
+            <styleUrl>#515</styleUrl>
+            <Point id="513">
+                <coordinates>101.7681,2.8612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>Ara Damansara – Oasis Square</name>
+            <description>RUN: 2239|Passcuran|2016-11-16,
+</description>
+            <styleUrl>#522</styleUrl>
+            <Point id="520">
+                <coordinates>101.5716,3.1137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="528">
+            <name>Ah Soon Langat Seafood and Beer Garden</name>
+            <description>RUN: 2236|Wim Michiels|2016-10-26,
+</description>
+            <styleUrl>#529</styleUrl>
+            <Point id="527">
+                <coordinates>101.49,3.638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>Isi Rimba Kemensah</name>
+            <description>RUN: 2354|Mae Yew|2019-01-30,
+RUN: 2339|Charlotte Donvang|2018-10-17,
+RUN: 2241|Charlotte Donvang|2016-11-30,
+</description>
+            <styleUrl>#536</styleUrl>
+            <Point id="534">
+                <coordinates>101.7812,3.226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="542">
+            <name>Kemensah, Jalan Tiara Kemensah 3</name>
+            <description>RUN: 2558|Leslie Antoine|2024-07-31,
+RUN: 2532|Frank Wijnands|2024-01-31,
+RUN: 2498|Christi Holleman|2023-06-07,
+RUN: 2491|Lisette Davis|2023-04-19,
+RUN: 2433|David Lake|2022-03-09,
+RUN: 2418|Mae Yew|2021-11-24,
+RUN: 2410|Lisette Davis|2020-02-26,
+RUN: 2399|Frank Wijnands|2019-12-11,
+RUN: 2355|Stefan Sanders|2019-02-06,
+RUN: 2344|Erik Blokhuis|2018-11-21,
+RUN: 2334|Nini Davis|2018-09-12,
+RUN: 2330|David Lake|2018-08-15,
+RUN: 2302|Leslie Antoine|2018-01-31,
+RUN: 2294|Tony Houldsworth|2017-12-06,
+RUN: 2282|Mae Yew|2017-09-13,
+RUN: 2260|Frank Wijnands|2017-04-12,
+RUN: 2237|Thevy Appalasamy|2016-11-02,
+RUN: 2234|Adeline Goh|2016-10-12,
+</description>
+            <styleUrl>#543</styleUrl>
+            <Point id="541">
+                <coordinates>101.7684,3.2159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>Bukit Kiara, Jalan Desa Kiara 7 (near Ayuria)</name>
+            <description>RUN: 2563|Syamalah|2024-09-04,
+RUN: 2553|Lilian Wong|2024-06-26,
+RUN: 2495|Elisabeth Laubel|2023-05-17,
+RUN: 2445|Nancy Cassiere|2022-06-01,
+RUN: 2434|Elisabeth Laubel|2022-03-16,
+</description>
+            <styleUrl>#550</styleUrl>
+            <Point id="548">
+                <coordinates>101.6411,3.1662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="556">
+            <name>Bukit Kiara, Ayuria Condominiums KiaraMas</name>
+            <description>RUN: 2469|Leslie Antoine|2022-11-16,
+RUN: 2367|Chris Leighton|2019-05-01,
+RUN: 2318|Syamalah|2018-05-23,
+RUN: 2291|John Koh|2017-11-15,
+RUN: 2279|Elisabeth Laubel|2017-08-23,
+RUN: 2252|Veron Seah|2017-02-15,
+RUN: 2249|Louise Edmondson|2017-01-25,
+RUN: 2233|Patrick Koebel|2016-10-05,
+RUN: 2230|Mynne Tan|2016-09-14,
+</description>
+            <styleUrl>#557</styleUrl>
+            <Point id="555">
+                <coordinates>101.6413,3.1681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>'No Man's Land (Jalan Bukit Kiara)</name>
+            <description>RUN: 2308|Gary Murrell|2018-03-14,
+RUN: 2229|Margaret Lim|2016-09-07,
+</description>
+            <styleUrl>#564</styleUrl>
+            <Point id="562">
+                <coordinates>101.6423,3.1462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="570">
+            <name>Sungai Buaya, Persiaran Bakawali</name>
+            <description>RUN: 2575|Mike Rickard|2024-11-27,
+RUN: 2377|Mark Taylor|2019-07-10,
+RUN: 2350|Neil Campbell|2019-01-02,
+RUN: 2310|Liew Lee Yook|2018-03-28,
+RUN: 2297|Neil Campbell|2017-12-27,
+</description>
+            <styleUrl>#571</styleUrl>
+            <Point id="569">
+                <coordinates>101.5379,3.3721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>Sungai Buaya (after the water tanks)</name>
+            <description>RUN: 2557|Lisette Davis|2024-07-24,
+RUN: 2535|Nori Lake|2024-02-21,
+RUN: 2521|John Dodgson|2023-11-15,
+RUN: 2497|Steve Chan|2023-05-31,
+RUN: 2480|Thomas Roch|2023-02-01,
+RUN: 2466|Jimmy Leggett|2022-10-26,
+RUN: 2459|John Dodgson|2022-09-07,
+RUN: 2426|Steve Chan|2022-01-19,
+RUN: 2422|John Dodgson|2021-12-22,
+RUN: 2366|Josie Mazur|2019-04-24,
+</description>
+            <styleUrl>#578</styleUrl>
+            <Point id="576">
+                <coordinates>101.5165,3.3749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="584">
+            <name>Sungai Buaya, Bukit Kiambangsari</name>
+            <description>RUN: 2227|Maria Galindon|2016-08-24,
+</description>
+            <styleUrl>#585</styleUrl>
+            <Point id="583">
+                <coordinates>101.5427,3.3819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>Kota Damansara Community Forest Reserve </name>
+            <description>RUN: 2314|Eric Teo |2018-04-25,
+RUN: 2238|Mary Morss|2016-11-09,
+RUN: 2224|Robin Koh|2016-08-03,
+RUN: 2216|Josephine Koay|2016-06-08,
+</description>
+            <styleUrl>#592</styleUrl>
+            <Point id="590">
+                <coordinates>101.5806,3.1692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="598">
+            <name>Kota Damansara Section 9 - Jalan Rimba Riang  9/1</name>
+            <description>RUN: 2340|Kwai Hoong|2018-10-24,
+RUN: 2320|Veron Seah|2018-06-06,
+RUN: 2305|Chris Leighton|2018-02-21,
+</description>
+            <styleUrl>#599</styleUrl>
+            <Point id="597">
+                <coordinates>101.584,3.1817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name> Bandar Sri Damansara, Persiaran Meranti </name>
+            <description>RUN: 2494|Nancy Stott|2023-05-10,
+RUN: 2475|Sandra Soliano|2022-12-28,
+RUN: 2423|Passcuran|2021-12-29,
+</description>
+            <styleUrl>#606</styleUrl>
+            <Point id="604">
+                <coordinates>101.6064,3.1816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="612">
+            <name>&quot;The White House&quot;, No.18 Lorong 5/21C, Bukit Gasing </name>
+            <description>RUN: 2353|John Koh|2019-01-23,
+</description>
+            <styleUrl>#613</styleUrl>
+            <Point id="611">
+                <coordinates>101.6586,3.107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>Bukit Gasing, Car Park</name>
+            <description>RUN: 2543|Tommy Chin|2024-04-17,
+RUN: 2425|Johan Van Geyzel|2022-01-12,
+RUN: 2407|Kwai Hoong|2020-02-05,
+RUN: 2289|Kana Karthigesu|2017-11-01,
+RUN: 2275|Liz Tan|2017-07-26,
+RUN: 2257|Sim Campbell|2017-03-22,
+RUN: 2243|Diva Nair|2016-12-14,
+RUN: 2231|Selvarani Viswalingam|2016-09-21,
+RUN: 2222|Liz Tan|2016-07-20,
+</description>
+            <styleUrl>#620</styleUrl>
+            <Point id="618">
+                <coordinates>101.656,3.0941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="626">
+            <name>Bukit Gasing, Maha Sivan Alayam</name>
+            <description>RUN: 2568|Mose Mose|2024-10-09,
+RUN: 2479|Mose Mose|2023-01-25,
+</description>
+            <styleUrl>#627</styleUrl>
+            <Point id="625">
+                <coordinates>101.6598,3.0913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>Bukit Dinding, Parking 2</name>
+            <description>RUN: 2394|Don Cheang |2019-11-06,
+</description>
+            <styleUrl>#634</styleUrl>
+            <Point id="632">
+                <coordinates>101.7444,3.1863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="640">
+            <name>Bukit Dinding, Parking 1</name>
+            <description>RUN: 2309|Don Cheang |2018-03-21,
+RUN: 2228|Don Cheang |2016-08-31,
+RUN: 2221|Virginia Tan|2016-07-13,
+</description>
+            <styleUrl>#641</styleUrl>
+            <Point id="639">
+                <coordinates>101.7437,3.1876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>Bukit Sri Bintang, Residensi Harmoni</name>
+            <description>RUN: 2417|Simon Hannon|2021-11-17,
+RUN: 2383|Syamalah|2019-08-21,
+RUN: 2356|Simon Hannon|2019-02-13,
+</description>
+            <styleUrl>#648</styleUrl>
+            <Point id="646">
+                <coordinates>101.6439,3.1794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="654">
+            <name>Bukit Sri Bintang, Jalan Seri Bintang 7</name>
+            <description>RUN: 2572|Passcuran|2024-11-06,
+RUN: 2555|Danny Lim|2024-07-10,
+RUN: 2528|Liz Tan|2024-01-03,
+RUN: 2503|Syamalah|2023-07-12,
+RUN: 2471|Guru Johal|2022-11-30,
+RUN: 2456|Gwen Cheong|2022-08-17,
+RUN: 2438|Don Cheang |2022-04-13,
+RUN: 2435|Syamalah|2022-03-23,
+RUN: 2432|Hans Schmitter|2022-03-02,
+RUN: 2397|Josephine Koay|2019-11-27,
+RUN: 2306|Mynne Tan|2018-02-28,
+RUN: 2296|Josephine Koay|2017-12-20,
+RUN: 2250|Michael Tan|2017-02-01,
+RUN: 2220|Sin Loy Chew|2016-07-06,
+</description>
+            <styleUrl>#655</styleUrl>
+            <Point id="653">
+                <coordinates>101.6423,3.1855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>Bukit Beruntung </name>
+            <description>RUN: 2322|Sarukunavathy Packrisamy|2018-06-20,
+RUN: 2292|Roger Gregson|2017-11-22,
+RUN: 2261|Sarukunavathy Packrisamy|2017-04-19,
+RUN: 2242|Liew Lee Yook|2016-12-07,
+RUN: 2219|Mei Mei|2016-06-29,
+</description>
+            <styleUrl>#662</styleUrl>
+            <Point id="660">
+                <coordinates>101.543,3.4016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="668">
+            <name>Kampung Lalang, Dengkil</name>
+            <description>RUN: 2571|Mark Taylor|2024-10-30,
+RUN: 2556|Diva Nair|2024-07-17,
+RUN: 2536|Daniel Wälchli|2024-02-28,
+RUN: 2525|Neil Campbell|2023-12-13,
+RUN: 2507|Jo Yoong|2023-08-09,
+RUN: 2477|Daniel Wälchli|2023-01-11,
+RUN: 2472|Nori Lake|2022-12-07,
+RUN: 2380|Jo Yoong|2019-07-31,
+RUN: 2327|Lewie Dekker|2018-07-25,
+RUN: 2323|Soh Kam Eng|2018-06-27,
+RUN: 2287|Jo Yoong|2017-10-18,
+RUN: 2274|Carol Moosdeen|2017-07-19,
+RUN: 2268|John Castleman|2017-06-07,
+RUN: 2258|Richard Gascoigne|2017-03-29,
+RUN: 2225|Richard Gascoigne|2016-08-10,
+RUN: 2218|Jo Yoong|2016-06-22,
+</description>
+            <styleUrl>#669</styleUrl>
+            <Point id="667">
+                <coordinates>101.7055,2.8617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>Rawang Industrial Park </name>
+            <description>RUN: 2277|Nini Davis|2017-08-09,
+RUN: 2272|Steve Chan|2017-07-05,
+RUN: 2217|Sim Campbell|2016-06-15,
+</description>
+            <styleUrl>#676</styleUrl>
+            <Point id="674">
+                <coordinates>101.5588,3.2955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="682">
+            <name>Villa Bestari (Universiti Islam)</name>
+            <description>RUN: 2337|Ingrid Van Haasterecht|2018-10-03,
+RUN: 2303|Frank Wijnands|2018-02-07,
+RUN: 2244|Frank Wijnands|2016-12-21,
+RUN: 2215|Frank Wijnands|2016-06-01,
+</description>
+            <styleUrl>#683</styleUrl>
+            <Point id="681">
+                <coordinates>101.7424,3.2562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>Hash Heritage Site, Bukit Kiara</name>
+            <description>RUN: 2552|Shann|2024-06-19,
+RUN: 2524|Passcuran|2023-12-06,
+RUN: 2421|Tommy Chin|2021-12-15,
+RUN: 2364|Guru Johal|2019-04-10,
+RUN: 2362|Reuben Lamack|2019-03-27,
+RUN: 2359|Miki Loh|2019-03-06,
+RUN: 2357|Alina Teo |2019-02-20,
+RUN: 2343|Passcuran|2018-11-14,
+RUN: 2338|May Rendezvous|2018-10-10,
+RUN: 2331|Hans Schmitter|2018-08-22,
+RUN: 2304|David Jenkins|2018-02-14,
+RUN: 2300|Hans Schmitter|2018-01-17,
+RUN: 2290|Passcuran|2017-11-08,
+RUN: 2288|Ima Druba|2017-10-25,
+RUN: 2285|Michael Chew|2017-10-04,
+RUN: 2273|Mei Mei|2017-07-12,
+RUN: 2267|May Rendezvous|2017-05-31,
+RUN: 2263|Uncle Soo|2017-05-03,
+RUN: 2248|Danny Lim|2017-01-18,
+RUN: 2240|Yoong Yee Chin|2016-11-23,
+RUN: 2223|Hans Schmitter|2016-07-27,
+RUN: 2213|Chai Leng|2016-05-18,
+</description>
+            <styleUrl>#690</styleUrl>
+            <Point id="688">
+                <coordinates>101.633,3.1439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="696">
+            <name>Khunthai Restaurant Petaling Garden , PJ Section 5</name>
+            <description>RUN: 2212|Roger Gregson|2016-05-11,
+</description>
+            <styleUrl>#697</styleUrl>
+            <Point id="695">
+                <coordinates>101.6546,3.0867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>Cahaya SPK</name>
+            <description>RUN: 2265|Ellia Murrell |2017-05-17,
+RUN: 2232|FC Wong |2016-09-28,
+RUN: 2211|Kana Karthigesu|2016-05-04,
+</description>
+            <styleUrl>#704</styleUrl>
+            <Point id="702">
+                <coordinates>101.4967,3.1435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="710">
+            <name>Bukit Mas – Jalan 2/4b</name>
+            <description>RUN: 2382|Leslie Antoine|2019-08-14,
+RUN: 2210|Johan Van Geyzel|2016-04-27,
+</description>
+            <styleUrl>#711</styleUrl>
+            <Point id="709">
+                <coordinates>101.7407,3.2312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>Denai Alam, Elmina close to Rainbow bridge</name>
+            <description>RUN: 2527|Mike Rickard|2023-12-27,
+RUN: 2455|Soh Kam Eng|2022-08-10,
+</description>
+            <styleUrl>#718</styleUrl>
+            <Point id="716">
+                <coordinates>101.5015,3.1783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="724">
+            <name>Denai Alam, Elmina Housing Development</name>
+            <description>RUN: 2453|Soh Yoke Chun|2022-07-27,
+RUN: 2444|Jo Yoong|2022-05-25,
+RUN: 2428|Diva Nair|2022-02-02,
+RUN: 2424|Kana Karthigesu|2022-01-05,
+</description>
+            <styleUrl>#725</styleUrl>
+            <Point id="723">
+                <coordinates>101.4975,3.1662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>Denai Alam, Persiaran Neutron</name>
+            <description>RUN: 2514|Diva Nair|2023-09-27,
+RUN: 2492|Kat Lee Rickard|2023-04-26,
+RUN: 2483|Kana Karthigesu|2023-02-22,
+RUN: 2470|Virginia Tan|2022-11-23,
+RUN: 2451|Selvarani Viswalingam|2022-07-13,
+RUN: 2427|Lewie Dekker|2022-01-26,
+RUN: 2408|Soh Kam Eng|2020-02-12,
+RUN: 2402|FC Wong |2020-01-01,
+RUN: 2400|Jimmy Leggett|2019-12-18,
+RUN: 2376|Virginia Tan|2019-07-03,
+RUN: 2373|Frank Wijnands|2019-06-12,
+RUN: 2371|Rob Stott|2019-05-29,
+RUN: 2361|Ellia Murrell |2019-03-20,
+RUN: 2342|Mark Taylor|2018-11-07,
+RUN: 2335|Nini Davis|2018-09-19,
+RUN: 2328|Rob Stott|2018-08-01,
+RUN: 2325|Nazli Ebrahimi|2018-07-11,
+RUN: 2324|Jimmy Leggett|2018-07-04,
+RUN: 2321|Patsy Yap|2018-06-13,
+RUN: 2312|Ion Mazareanu|2018-04-11,
+RUN: 2269|Stefan Sanders|2017-06-14,
+RUN: 2264|Rob Stott|2017-05-10,
+RUN: 2254|Patsy Yap|2017-03-01,
+RUN: 2235|Ron Sparling|2016-10-19,
+RUN: 2226|Gary Murrell|2016-08-17,
+RUN: 2208|Mark Taylor|2016-04-13,
+</description>
+            <styleUrl>#732</styleUrl>
+            <Point id="730">
+                <coordinates>101.5041,3.1498,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
